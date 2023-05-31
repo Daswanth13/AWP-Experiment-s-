@@ -1,2 +1,2 @@
-# AWP Experiment's 
+# AWP 
 CUTMAP
